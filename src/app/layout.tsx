@@ -17,7 +17,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "SUPREME",
-  description: "Premium quailty steels",
+  description: "Premium quailty steel",
   icons: {
     icon: "/footer-logo.png",
   },
